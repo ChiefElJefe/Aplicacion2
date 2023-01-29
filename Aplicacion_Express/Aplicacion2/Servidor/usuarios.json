@@ -1,0 +1,46 @@
+[
+    {
+        "usuario": "Viejo Sabroso",
+        "img": "0.png",
+        "color": "#DB790A",
+        "respuesta": [
+            "Si soy, pero no lo suficiente.",
+            "No sé leer.",
+            "Pinche_Pendejo_Papito_Huevon.",
+            "Que afortunado."
+        ]
+    },
+    {
+        "usuario": "Alioli",
+        "img": "1.png",
+        "color": "#72C20C",
+        "respuesta": [
+            "En Florida... ",
+            "¿Esto se hace asi?",
+            "Ghostface es la polla.",
+            "Pasame una llave ninja del 15."
+        ]
+    },
+    {
+        "usuario": "Cazuelas",
+        "img": "2.png",
+        "color": "#CA0995",
+        "respuesta": [
+            "¡Soy Friki, pero no tanto!.",
+            "A ver, lo soy, pero no te motives.",
+            "Eres un poco tonto, pero te respeto.",
+            "Respeta."
+        ]
+    },
+    {
+        "usuario": "Natyllo",
+        "img": "3.png",
+        "color": "#C10819",
+        "respuesta": [
+            "No voy a utilizar Linux, me niego.",
+            "Hola.",
+            "Adios",
+            "Mi hermano..."
+        ]
+    }
+]

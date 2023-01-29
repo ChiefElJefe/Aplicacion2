@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="./css/estilos.css">
+  <link rel="stylesheet" href="./css/photon.css">
+  <title>Libro</title>
+</head>
+
+<body>
+  <div class="window">
+    <header class="toolbar toolbar-header">
+      <h1 class="title">Chat GPTO3</h1>
+    </header>
+    <div class="window-content">
+      <div class="pane-group">
+        <div class="pane-sm sidebar">
+          <ul class="list-group" id="barralado">
+
+          </ul>
+        </div>
+        <div class="pane" id="chatInterfaz">
+        </div>
+      </div>
+    </div>
+    <footer class="toolbar toolbar-footer">
+      <div class="toolbar-actions">
+          <button class="btn btn-large btn-primary pull-right" id="boton2">Añadir</button>
+          <input type="text" id="mensaje">
+          <button class="btn btn-large btn-primary pull-left" id="boton1">Enviar</button>
+      </div>
+    </footer>
+  </div>
+  <script>require('./interfaz.js')</script>
+</body>
+
+</html>
